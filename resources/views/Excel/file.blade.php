@@ -16,7 +16,6 @@
     <div class="col-md-8">
        <nav class="navbar sticky-top navbar-light  " style="background-color: #e3f2fd;">
         <a class="navbar-brand" href="/">Simple Data Set</a>
-        <a class="navbar-brand" href="#">Sticky top</a>
         <a class="navbar-brand" href="excelFile">Import/Export Excel File</a>
 
        </nav>
